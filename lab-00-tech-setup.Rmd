@@ -1,0 +1,14 @@
+---
+title: "Lab 00 - Tech Setup"
+author: "Lucy D'Agostino McGowan"
+output: html_document
+---
+
+
+```{r, message = FALSE, warning = FALSE}
+library(tidyverse)
+```
+
+## Exercise 1
+
+## Exercise 2
